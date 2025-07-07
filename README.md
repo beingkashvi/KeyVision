@@ -4,7 +4,7 @@
 
 This project demonstrates a real-time virtual keyboard application using Python, OpenCV, and MediaPipe. Users can interact with an on-screen keyboard by pinching their index finger and thumb in front of the webcam. Each pinch selects a key, which is then displayed on-screen and can optionally be logged to a text file in real time.
 
-![Virtual Keyboard Demo](demo_screenshot.png)
+![Virtual Keyboard Demo](demo/output.gif)
 
 ## Features
 
